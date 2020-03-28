@@ -1,9 +1,10 @@
 ---
 layout: post
-title:      "Why Software Engineering?# 		"
-date:       2020-03-28 00:15:17 +0000
+title:      "Why Software Engineering?"
+date:       2020-03-27 20:15:17 -0400
 permalink:  why_software_engineering
 ---
+
 
 Most people hate their jobs, but why? 
 
@@ -14,7 +15,7 @@ Maybe the better question is, “What ACTUALLY makes people happy at a job?”. 
 When taking a closer look at the [data](https://www.surveymonkey.com/curiosity/cnbc-workplace-happiness-index-july-2019/) you’ll notice that the top three factors that contribute to happiness at work are (in order): doing meaningful work, being paid well, and having control over how you do your work -- meaning, where you do it, when you do it, the way in which you do it, etc. We all know that software engineering checks most, if not all, of those boxes -- that being said, I do have a few of my own reasons for getting (back into) software engineering.
 
 
-## It Was Time for Change##
+## It Was Time for a Change
 
 Before I decided to sign up for Flatiron -- I was working remotely “at” a Quality Assurance website, as a Team Lead. I was a middle man between groups of testers on our site and QA teams from some of the largest companies in the world -- to ensure that testing efforts would run smoothly from start to finish. Prior to QA work, I was a Computer Science major (drop out). 
 
@@ -29,9 +30,9 @@ Simply put -- as I mentioned earlier -- most people hate their jobs, **I do not 
 
 Links
 ---------
-Article: https://www.cnbc.com/2019/07/16/here-is-what-makes-workers-the-happiest-at-every-age.html
+[CNBC Article](https://www.cnbc.com/2019/07/16/here-is-what-makes-workers-the-happiest-at-every-age.html)
 
-Survey: https://www.surveymonkey.com/curiosity/cnbc-workplace-happiness-index-july-2019/
+[SurveyMonkey x CNBC Survey](https://www.surveymonkey.com/curiosity/cnbc-workplace-happiness-index-july-2019/://)
 
 
 
