@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "5 Tips for New Flatiron Coding Bootcamp Students"
-date:       2020-08-06 00:07:22 +0000
+date:       2020-08-05 20:07:23 -0400
 permalink:  5_tips_for_new_flatiron_coding_bootcamp_students
 ---
 
